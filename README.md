@@ -1,4 +1,4 @@
-# create my own Token in solidity
+# MY OWN TOKEN NINJA HOTHORI
 This repository is made for my ethereum beginner project which is used to create MY TOKEN using contracts
 
 ## Problem Statement
